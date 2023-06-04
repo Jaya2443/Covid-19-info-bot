@@ -5,16 +5,22 @@ I have used the HTML, CSS, JS  along with that I have used the AZURE LANGUAGE ST
 Project link( demo link): 
 
 Below are the some of the screenshots took while working on this project in Azure
-1. Creating 
+1. Creating language resource 
 ![image](https://github.com/Jaya2443/Covid-19-info-bot/assets/113762941/5ac7805d-519e-4a73-9bab-0714b5c962f8)
 
-2.
+2.Creating project in language studio
 ![image](https://github.com/Jaya2443/Covid-19-info-bot/assets/113762941/879725b4-fc61-48ef-8712-e951cdb07400)
 
-3.
+3.Adding Q&A in knowledgbase
 ![image](https://github.com/Jaya2443/Covid-19-info-bot/assets/113762941/739e7938-1b6f-45ea-9ab3-6512e0549b32)
 
-4.![image](https://github.com/Jaya2443/Covid-19-info-bot/assets/113762941/1cf94419-2322-4e60-b4d1-31bb3bf5469d)
+4. Deploying knowledgebase
+![image](https://github.com/Jaya2443/Covid-19-info-bot/assets/113762941/1cf94419-2322-4e60-b4d1-31bb3bf5469d)
 
-5.
+5.Creating a Bot service 
 ![image](https://github.com/Jaya2443/Covid-19-info-bot/assets/113762941/dd3ac014-e7ec-4b8f-a046-1994df95307d)
+
+6. Creating Static web app
+
+7. Successfully created and hosted the website
+
