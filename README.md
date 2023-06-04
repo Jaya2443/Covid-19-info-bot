@@ -2,7 +2,7 @@
 This is the Covid-19 webpage,in which you can find the preventive measures , symptoms , how to pretect etc.
 I have used the HTML, CSS, JS  along with that I have used the AZURE LANGUAGE STUDIO, BOT SERVICE , STATIC WEBAPP services.
 
-Project link( demo link): 
+Project link( demo link): https://red-smoke-089238f10.3.azurestaticapps.net/
 
 Below are the some of the screenshots took while working on this project in Azure
 1. Creating language resource 
@@ -21,6 +21,10 @@ Below are the some of the screenshots took while working on this project in Azur
 ![image](https://github.com/Jaya2443/Covid-19-info-bot/assets/113762941/dd3ac014-e7ec-4b8f-a046-1994df95307d)
 
 6. Creating Static web app
+7.  ![image](https://github.com/Jaya2443/Covid-19-info-bot/assets/113762941/0b800e6a-5c13-493a-aba5-e1532504f3e5)
+
 
 7. Successfully created and hosted the website
+![image](https://github.com/Jaya2443/Covid-19-info-bot/assets/113762941/3719dd93-17b9-4720-85ca-4e5951416426)
+
 
